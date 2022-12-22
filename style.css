@@ -1,3 +1,45 @@
 body {
     margin: 0;
+    font-family: font-family: 'Poppins', sans-serif;
+    ;
+}
+
+.top-banner {
+    display: flex;
+    padding-left: 30px;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+span {
+    color: orange;
+}
+
+.left-top {
+    width: 50%;
+}
+
+.link-button {
+    background-color: #f44336;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.right-top {
+    width: 50%;
+}
+
+.right-top img {
+    width: 60%;
+    height: 60%;
+    padding-left: 10%;
+
 }
